@@ -28,7 +28,6 @@ return {
                     "csslint",  -- CSS linter (or consider 'stylelint')
                     "eslint_d", -- JavaScript/TypeScript linter (using daemonized version)
                     "sqlfluff", -- SQL linter/formatter
-                    "clippy",   -- Rust linter (often works with rust_analyzer, but good to have standalone)
                 },
                 automatic_installation = true,
             })
