@@ -23,11 +23,6 @@ return {
                     "ts_ls",
                     "sqls",
                     "rust_analyzer",
-                    "luacheck", -- Lua linter
-                    "htmlhint", -- HTML linter
-                    "csslint",  -- CSS linter (or consider 'stylelint')
-                    "eslint_d", -- JavaScript/TypeScript linter (using daemonized version)
-                    "sqlfluff", -- SQL linter/formatter
                 },
                 automatic_installation = true,
             })
