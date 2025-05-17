@@ -12,3 +12,12 @@ return {
 --Execute current paragraph (normal mode) <leader>-r
 --Close last result buffer <leader>-w
 --Close all result buffers <leader>-W
+--
+--
+--
+--:PgRun (<leader>x)
+--:PgCancel
+--PgTemp to get a temporary SQL workspace
+--PgGetTable
+--PgGetFunction
+--PgGetDatabase

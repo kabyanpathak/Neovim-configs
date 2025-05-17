@@ -23,6 +23,8 @@ return {
                     "ts_ls",
                     "sqls",
                     "rust_analyzer",
+                    "pyright",
+                    "jdtls",
                 },
                 automatic_installation = true,
             })
